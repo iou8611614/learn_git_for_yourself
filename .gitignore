@@ -1,0 +1,2 @@
+#ignore "ignore folder" all txt file 
+ignore_folder/*.txt
